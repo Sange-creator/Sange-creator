@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Current Project: Developing a Tourism Web Application using Go<br>Features:<br>Embedding AI/ML technologies<br>Integrating Blockchain for security and data integrity
+## Current Project: Developing a Tourism Web Application using Go<br>Embedding AI/ML technologies<br>Integrating Blockchain for security and data integrity
 
 
 ## 🌐 Socials:

@@ -1,5 +1,7 @@
-# 💫 About Me:
-### Learning ML and Blockchain
+
+### Electronics,Communication and Information Engineer
+### Aspiring AI Engineer
+### Passionate in Generative AI
 
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Saange 👋</h1>
 
-<h3 align="center">Electronics, Communication and Information Engineering Undergraduate</h3>
+<h3 align="center">Electronics, Communication and Information Engineering Graduate</h3>
 
 <p align="center">
   Aspiring AI Engineer · Generative AI Enthusiast

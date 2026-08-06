@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sange 👋</h1>
+<h1 align="center">Hi there, I'm Saange 👋</h1>
 
 <h3 align="center">Electronics, Communication and Information Engineering Undergraduate</h3>
 
@@ -12,11 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I am an **Electronics, Communication and Information Engineering** undergraduate at the **Institute of Engineering (IOE)**.
+- 🎓 I am an **Electronics, Communication and Information Engineering** undergraduate from **Institute of Engineering (IOE)**.
 - 🤖 I am building my skills in **Artificial Intelligence, Machine Learning, and Generative AI**.
-- 🚀 I am currently developing a tourism web application with Go, AI/ML features, and blockchain-based security.
+- 🚀 I am currently developing a tourism web application with AI/ML features for international and national tourists.
 - 💡 I enjoy exploring intelligent systems, emerging technologies, and practical solutions to real-world problems.
 - 🌱 I am always learning, experimenting, and turning ideas into projects.
+- 🤖 Lately, I am enjoying building AI agents and solving real world problems.
 
 ## 🌐 Connect With Me
 
@@ -59,7 +60,6 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

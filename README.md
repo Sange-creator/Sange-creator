@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sange-creator&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sange's GitHub statistics" />
+  <img src="https://github-readme-stats-mu-tawny-74.vercel.app/api?username=Sange-creator&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Sange's GitHub statistics" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sange-creator&theme=github_dark&hide_border=true&layout=compact" alt="Sange's most-used languages" />
+  <img src="https://github-readme-stats-mu-tawny-74.vercel.app/api/top-langs/?username=Sange-creator&theme=github_dark&hide_border=true&layout=compact" alt="Sange's most-used languages" />
 </p>
 
 ---

@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sange-creator&theme=github-dark-blue&hide_border=true&v=2" alt="Sange's GitHub contribution streak" />
+  <img src="./profile/streak.svg" alt="Sange's GitHub contribution streak" />
 </p>
 
 <p align="center">

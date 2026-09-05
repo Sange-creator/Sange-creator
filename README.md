@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
--  I am an **Electronics, Communication and Information Engineering** undergraduate from **Institute of Engineering (IOE)**.
+-  I am an **Electronics, Communication and Information Engineering** graduate from **Institute of Engineering (IOE)**.
 -  I am building my skills in **Artificial Intelligence, Machine Learning, and Generative AI**.
 -  I am currently developing a tourism web application with AI/ML features for international and national tourists.
 -  I enjoy exploring intelligent systems, emerging technologies, and practical solutions to real-world problems.

@@ -3,7 +3,7 @@
 <h3 align="center">Electronics, Communication and Information Engineering Graduate</h3>
 
 <p align="center">
-  Aspiring AI Engineer · Generative AI Enthusiast
+  Aspiring AI/ML Engineer · Generative AI Enthusiast · Wireless/5G/6G
 </p>
 
 <p align="center">
